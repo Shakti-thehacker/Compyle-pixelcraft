@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
 import { cn } from '@/lib/utils/cn'
-import { Container } from '@/ui/Container'
-import { Button } from '@/ui/Button'
+import { Container } from '@/components/ui/Container'
+import { Button } from '@/components/ui/Button'
 import { ThemeToggle } from './ThemeToggle'
 import {
   Mail,
