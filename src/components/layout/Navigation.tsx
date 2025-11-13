@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { cn } from '@/lib/utils/cn'
 import { ThemeToggle } from './ThemeToggle'
-import { Button } from '@/ui/Button'
+import { Button } from '@/components/ui/Button'
 import { NavigationItem } from '@/types'
 import {
   Menu,
